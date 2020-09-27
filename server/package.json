@@ -1,0 +1,22 @@
+{
+  "name": "try3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "random-words": "^1.1.1",
+    "request": "^2.88.2",
+    "spotify-web-api-node": "^4.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
