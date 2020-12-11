@@ -1,6 +1,6 @@
 # Chaotify
 
-1. make a developer account to use the Spotify API
+1. Make a developer account to use the Spotify API and obtain your Client_ID and Client_Secret
 2. Clone the repo
 3. Open a terminal: <code> cd client </code> then <code> yarn install</code>
 4. Open another terminal: <code> cd server </code> then <code>yarn install</code>
