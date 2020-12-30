@@ -1,5 +1,8 @@
 # Chaotify
 
+This project gets random songs from spotify based on a randomly generated keyword.
+
+
 1. Make a developer account to use the Spotify API and obtain your Client_ID and Client_Secret
 2. Clone the repo
 3. Open a terminal: <code> cd client </code> then <code> yarn install</code>
