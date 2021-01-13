@@ -73,6 +73,14 @@ class TrackTwo extends Component {
         <h2>
           {track.song} by {track.artist}
         </h2>
+        <h3>Random Search Word: {track.searchWord}</h3>
+        <h3>
+          Spotify Link:{" "}
+          <a href={track.songUrl} target="_blank" rel="noopener noreferrer">
+            Open in Spotify
+          </a>
+        </h3>
+        <h3>Popularity of song: {track.popularity}</h3>
         <div id="mp3_player">
           <div id="audio_box">
             <audio
